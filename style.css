@@ -1,0 +1,28 @@
+body {
+    background: #5c9aec;
+  }
+
+.box {
+    background: #e0cc14;
+    width: 180px;
+    padding: 4px 0;
+    font-size: 40px;
+    border: 1.5px solid rgb(56, 92, 170);
+    margin-right: -2px;
+    margin-top: 2px;
+    color: rgb(0, 0, 0);
+    position: relative;
+    height: 120px;
+    width: 120px;
+    left: 40%;
+    top: 35%;
+    transform: translateX(-50%) translateY(-50%);
+    border-radius: 3px;
+}
+
+.win_draw_text {
+    font-size: 25px;
+    left: 17%;
+    bottom: 20%;
+    position: relative;
+}
